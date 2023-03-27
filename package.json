@@ -1,0 +1,21 @@
+{
+  "name": "tomorrow-house",
+  "version": "1.0.0",
+  "description": "House of the Day, Clone Coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css-build": "sass -w ./sass/style.scss:./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yilee-dev/tomorrow-house.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yilee-dev/tomorrow-house/issues"
+  },
+  "homepage": "https://github.com/yilee-dev/tomorrow-house#readme"
+}
